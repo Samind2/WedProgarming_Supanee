@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab&display=swap');
+
+*{
+    font-family: 'Roboto Slab', serif;
+    margin: 0px;
+}
+body {
+    background-image: url('https://images.unsplash.com/photo-1544002112-aa68bd940a8b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80');
+    background-size: cover;
+}
+p{
+    color: rgb(155, 17, 17);
+    text-align: center;
+    padding: 10px;
+    min-width: 350px;
+    border: solid 2px rgb(155, 17, 17);
+    border-bottom-style: solid;
+    border-top-style: solid;
+    border-left-style: solid;
+    border-bottom-style: 2px;
+    border-top-width: 5px;
+    border-left-style: solid;
+
+}
+.happy {
+    margin: 5px;
+    font-size: 2em;
+   background-color: rgb(255, 248, 237);
+   text-align: center;
+
+   
+
+
+
+}
+
+#love {
+    text-decoration: line-through;
+    background-color: rgb(255, 248, 237);
+}
+
+#UPtoYou {
+    background-color: rgb(255, 248, 237);
+}
+
+span {
+    color: rgb(155, 17, 17);
+}
+
+a:link {
+    color: aquamarine
+}
+a:visited {
+    color: salmon;
+    font-style: italic;
+}
+a:hover {
+    color: aliceblue;
+    font-size: x-large;
+}
+
+a:active {
+    font-weight: bolder;
+    color: thistle;
+}
+
+/*กำหนดสีในtag*/
